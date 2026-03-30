@@ -1,4 +1,4 @@
-# Project Management System
+﻿# Project Management System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -21,6 +21,13 @@ AI agents working on complex projects need:
 
 This system provides all of the above, battle-tested in real multi-agent projects.
 
+### Why This System?
+
+Unlike code-heavy frameworks (MetaGPT, AutoGen), this is a **methodology-first approach**:
+- **Document-driven** - No dependencies, pure Markdown
+- **Learn the "how"** - Teaches process, not just execution
+- **Adaptable** - Works with any agent platform
+- **Production-ready** - Battle-tested templates and workflows
 ## Platform Compatibility
 
 | Platform | Support | Notes |
